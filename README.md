@@ -61,6 +61,15 @@ As such, Smashlet can be embedded anywhere of a program with a string input. For
 
 The RythmGame app in Google Oboe project illustrates some basic operations of the low latency Oboe library. Combining this with Smashlet and Imgui, we have a programming environment on Android to represent and manipualte hierarchies in Coding, Graphics Programming & Audio Programming. This is the ultimate audio programming interface, allowing the musician or programmer to access audio function libraries via OpenGL objects in 2D and 3D, as well as modify the interfaces themselves via Smashlet debug shell.
 
+Plans:
+
+1. a. Modify RythmGame code to record and repeat taps.
+
+b. Modify UI of RythmGame to add more complex tapping, tone.
+
+c. Modify RythmGame to load tracks from files.
+
+2. Add streaming functions from VinylCast to RythmGame
 
 
 
