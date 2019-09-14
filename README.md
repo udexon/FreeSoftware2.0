@@ -65,6 +65,8 @@ Plans:
 
 1. a. Modify RythmGame code to record and repeat taps.
 
+i. Measure taps interval, duration, position dan display using Imgui.
+
 b. Modify UI of RythmGame to add more complex tapping, tone.
 
 c. Modify RythmGame to load tracks from files.
