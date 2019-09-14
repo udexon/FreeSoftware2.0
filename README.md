@@ -71,5 +71,7 @@ c. Modify RythmGame to load tracks from files.
 
 2. Add streaming functions from VinylCast to RythmGame
 
+3. Integrate and modify audio functions from other open source audio projects such as Audacity and Mixxx.
 
+4. Create UI similar to GeoShread.
 
