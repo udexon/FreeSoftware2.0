@@ -77,7 +77,11 @@ b. Create login mechanisms based on conventional login
 
 c. Login using anonymous public key cryptography
 
+d. Open collaboration by musicians around the world, old and young, professional and amateur, using one universal platform, Phos Mix.
+
 3. Integrate and modify audio functions from other open source audio projects such as Audacity and Mixxx.
+
+a. Open collaboration by programmers around the world, old and young, using one universal programming language, the reverse polish notation.
 
 4. Create UI similar to GeoShread.
 
