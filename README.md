@@ -1,4 +1,4 @@
-# FreeSoftware2.0
+# Free Software 2.0
 Free Software 2.0 -- Fair Shareholding (FS Squared)
 
 From Forth and Imgui Android to Free Software Fair Shareholding (FS Squared)
@@ -51,7 +51,7 @@ Most people have perhaps forgotten how small and simple the first versions of GC
 
 Smashlet is essentially a loop that parses space delimited strings into tokens, pushes non-function tokens on to the data stack, and execute functions mapped to by function tokens. The simplest Smashlet loop can be as few as 20 lines of JavaScript code. The same is true of the Forth interpreter. As Smashlet does not necessarily support the common Forth words for various reasons, we have chosen a new name to differentiate from mainstream Forth and derivatives. 
 
-As such, Smashlet can be embedded anywhere of a program with a string input. For Imgui, several instances of the Widgets->Basic can be used. 
+As such, Smashlet can be embedded anywhere of a program with a string input. For Imgui, several instances of the Widgets->Basic can be used. Colon Definition Words (CDW) mapping into C++ or Java functions using Imgui enables programmers to access all internal variables directly LIVE, using the Smashlet shell interface, thus making it a full fledged debugger.
 
 
 
@@ -62,5 +62,3 @@ As such, Smashlet can be embedded anywhere of a program with a string input. For
 
 
 
-
-the ussion
