@@ -57,7 +57,9 @@ As such, Smashlet can be embedded anywhere of a program with a string input. For
  <img src="https://github.com/udexon/FreeSoftware2.0/blob/master/Imgui_Widgets_Basic.png"  width="500" > 
 
 
+### Hierarchies in Coding, Graphics Programming & Audio Programming
 
+The RythmGame app in Google Oboe project illustrates some basic operations of the low latency Oboe library. Combining this with Smashlet and Imgui, we have a programming environment on Android to represent and manipualte hierarchies in Coding, Graphics Programming & Audio Programming.
 
 
 
