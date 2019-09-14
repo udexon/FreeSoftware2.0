@@ -54,7 +54,7 @@ Smashlet is essentially a loop that parses space delimited strings into tokens, 
 As such, Smashlet can be embedded anywhere of a program with a string input. For Imgui, several instances of the Widgets->Basic can be used. Colon Definition Words (CDW) mapping into C++ or Java functions using Imgui enables programmers to access all internal variables directly LIVE, using the Smashlet shell interface, thus making it a full fledged debugger.
 
 
-
+ <img src="https://github.com/udexon/FreeSoftware2.0/blob/master/Imgui_Widgets_Basic.png"  width="500" > 
 
 
 
