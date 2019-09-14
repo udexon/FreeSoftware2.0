@@ -69,7 +69,11 @@ b. Modify UI of RythmGame to add more complex tapping, tone.
 
 c. Modify RythmGame to load tracks from files.
 
-2. Add streaming functions from VinylCast to RythmGame
+2. a. Add streaming functions from VinylCast to RythmGame
+
+b. Create login mechanisms based on conventional login 
+
+c. Login using anonymous public key cryptography
 
 3. Integrate and modify audio functions from other open source audio projects such as Audacity and Mixxx.
 
