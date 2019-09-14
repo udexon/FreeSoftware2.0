@@ -85,3 +85,7 @@ a. Open collaboration by programmers around the world, old and young, using one 
 
 4. Create UI similar to GeoShread.
 
+
+<img src="https://github.com/udexon/FreeSoftware2.0/blob/master/Imgui_Smashlet_plus.png"  width="500" > 
+
+Simple reverse polish notation operation (+) in "input text" field (2 3 +) and result shown in the same row as "Button" ("mystack 5")
